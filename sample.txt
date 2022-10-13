@@ -1,2 +1,1 @@
- this is coding file
-done wrong coding i dont want now
+this is line 1st
